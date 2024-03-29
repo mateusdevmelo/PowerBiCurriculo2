@@ -1,9 +1,6 @@
-<h1>Dashboard de Produção em Power BI</h1>
+<h1>Dashboard de Análise de pacientes em Power BI</h1>
 
 <h2>Descrição do Projeto</h2>
-
-Este dashboard de produção em Power BI foi desenvolvido para acompanhar a variação mensal na produção de peças ao longo de um ano.
-Utilizando um gráfico de área, é possível visualizar a tendência da produção ao longo do tempo, destacando picos e quedas em diferentes meses.
 
 Este dashboard de lista de espera em Power BI foi desenvolvido para acompanhar a variação mensal na fila de espera de pacientes que ficam
 internados no hospital e pacientes que vão embora assim que são diagnosticados. Utilizando um gráfico de área, é possível visualizar a tendência da lista de espera ao longo do tempo,
