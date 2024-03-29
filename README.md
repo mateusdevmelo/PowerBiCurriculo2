@@ -1,4 +1,4 @@
-<h1>Dashboard de Análise de pacientes em Power BI</h1>
+<h1>Dashboard de Análise de Pacientes em Power BI</h1>
 
 <h2>Descrição do Projeto</h2>
 
